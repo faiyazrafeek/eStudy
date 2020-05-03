@@ -10,10 +10,10 @@
                     <a class="nav-link" href="<?php echo ROOT_URL; ?>">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Subjects</a>
+                    <a class="nav-link" href="<?php echo ROOT_URL; ?>addPost.php">New Post</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact Us</a>
+                    <a class="nav-link" href="<?php echo ROOT_URL; ?>contact.php">Contact Us</a>
                 </li>
             </ul>
         </div>
